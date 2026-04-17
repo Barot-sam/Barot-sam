@@ -92,18 +92,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barot-sam&show_icons=true&theme=dark&bg_color=0d0a07&title_color=c4722a&icon_color=d4882a&text_color=e8d5b7&border_color=2e2415&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barot-sam&layout=compact&theme=dark&bg_color=0d0a07&title_color=c4722a&text_color=e8d5b7&border_color=2e2415&hide_border=true)
-
-</div>
-
----
-
 ## 🔭 Right Now
 
 - 🚀 Building **AI-powered products** with high-performance, SEO-ranked frontends
