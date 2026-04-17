@@ -17,20 +17,6 @@
 
 ---
 
-## 🎬 My Work in Motion
-
-> **Tip:** Add screen recordings as GIFs. Keep under 5MB using [ezgif.com/optimize](https://ezgif.com/optimize)
-
-| Web App | React Native |
-|:---:|:---:|
-| ![Web Demo](./assets/web-demo.gif) | ![Mobile Demo](./assets/mobile-demo.gif) |
-
-| AI/ML Pipeline | 3D / Animation |
-|:---:|:---:|
-| ![AI Demo](./assets/ai-demo.gif) | ![3D Demo](./assets/3d-demo.gif) |
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
