@@ -101,7 +101,7 @@
 
 ## 📬 Connect
 
-- **GitHub:** [@BrahmbhattOm](https://github.com/Barot-sam)
+- **GitHub:** [@BrahmbhattOm](https://github.com/BrahmbhattOm)
 - **Portfolio:** https://ombrahmbhatt.com
 
 ---
