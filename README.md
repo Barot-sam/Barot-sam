@@ -101,8 +101,8 @@
 
 ## 📬 Connect
 
-- **GitHub:** [@Barot-sam](https://github.com/Barot-sam)
-- **Portfolio:** `[your-website.com]` *(https://ombrahmbhatt.com)*
+- **GitHub:** [@BrahmbhattOm](https://github.com/Barot-sam)
+- **Portfolio:** https://ombrahmbhatt.com
 
 ---
 
