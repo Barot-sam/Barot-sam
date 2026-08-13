@@ -102,8 +102,7 @@
 ## 📬 Connect
 
 - **GitHub:** [@Barot-sam](https://github.com/Barot-sam)
-- **Portfolio:** `[your-website.com]` *(update this)*
-- **Email:** `[your-email@example.com]` *(update this)*
+- **Portfolio:** `[your-website.com]` *(https://ombrahmbhatt.com)*
 
 ---
 
